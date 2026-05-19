@@ -12,11 +12,11 @@
 
 ---
 
-Payment infrastructure for AI agents. Agent wallets, policy-enforced spending, and settlement on Base — built on the open x402 standard.
+Programmable on-chain payment settlement. Capital accounts with policy enforcement for trading desks, protocol treasuries, and execution systems — non-custodial, built on the open x402 standard.
 
 ## What is Proco pay?
 
-Proco pay is the financial layer that sits between your AI agents and any paid API. Agents get their own wallets, spend within policies you define, and pay automatically using the x402 protocol — no human in the loop.
+Proco pay is the financial layer that sits between your AI agents and any paid API. Agents get their own wallets, spend within policies you define, Proco pay is the on-chain settlement layer for capital flows. Any principal — trading desk, protocol treasury, execution system, or automated agent — gets a non-custodial capital account with programmable spending policies. Payments route via x402 — policy-validated, settled on-chain, no intermediary.
 
 ```
 Agent  ->  GET /data
